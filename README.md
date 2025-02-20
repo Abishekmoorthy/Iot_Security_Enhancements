@@ -5,16 +5,6 @@ IoT devices face numerous security challenges, including data breaches and priva
 
 ---
 
-## Team Members
-
-| S.No | Roll No         | Name            | WhatsApp No |
-|------|-----------------|-----------------|-------------|
-| 1    | CB.EN.U4CSE22001 | Abishek E       | 7010496799  |
-| 2    | CB.EN.U4CSE22010 | D Sathishwaran | 7200536293  |
-| 3    | CB.EN.U4CSE22436 | S Naveen Kumar | 8220554775  |
-
----
-
 ## Problem Statement
 IoT devices encounter various security issues due to their increasing adoption. Traditional methods are prone to scalability and failure risks, while blockchain technology offers promising solutions. This study aims to:
 - Evaluate the effectiveness of blockchain in securing IoT systems.
@@ -81,7 +71,7 @@ Design an optimal layout for sensors and actuators to ensure accurate data colle
 ---
 
 ## Software Architecture Diagram
-(Include a well-structured software architecture diagram here.)
+(Include a well-structured software architecture diagram here, potentially with icons representing IoT devices, blockchain nodes, and cloud services.)
 
 ---
 
@@ -175,5 +165,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 ## Contact
-For any queries or contributions, contact the project members through the WhatsApp numbers provided above.
+For queries or contributions, open an issue in the repository or submit a pull request. Let's build a more secure IoT ecosystem together!
 
+---
+
+## Note
+*"The future of IoT security is here. Let’s pioneer innovation together!" 🚀
