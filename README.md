@@ -1,4 +1,4 @@
-# IoT Security: A Comparative Study of Traditional and Blockchain-Based Security Measures
+# 🚀IoT Security: A Comparative Study of Traditional and Blockchain-Based Security Measures
 
 ## Project Overview
 IoT devices face numerous security challenges, including data breaches and privacy risks. Traditional security methods often lack scalability and reliability, while blockchain offers a decentralized and secure alternative. This project evaluates and compares traditional and blockchain-based security measures to determine the optimal solution for IoT systems.
@@ -158,16 +158,3 @@ Design an optimal layout for sensors and actuators to ensure accurate data colle
 4. Submit a pull request with detailed documentation.
 
 ---
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-## Contact
-For queries or contributions, open an issue in the repository or submit a pull request. Let's build a more secure IoT ecosystem together!
-
----
-
-## Note
-*"The future of IoT security is here. Let’s pioneer innovation together!" 🚀
